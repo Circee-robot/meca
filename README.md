@@ -1,2 +1,2 @@
 # meca
-Mecanique du robot. Design sur Freecad.
+Mecanique du robot. Design sur Fusion 360.
